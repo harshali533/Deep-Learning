@@ -1,0 +1,13 @@
+myenv/
+.env
+__pycache__/
+*.pyc
+*.onnx
+*.onnx.data
+*.pth
+*.pt
+.ipynb_checkpoints/
+venv/
+env/
+.vscode/
+.idea/
